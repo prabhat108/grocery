@@ -89,7 +89,7 @@ input[type="submit"],#PPMiniCart .minicart-submit,.w3ls_vegetables ul li a,input
     color: #fff;
     text-decoration: none;
     padding: .5em 3em;
-    background: #84C639;
+    background: #285430;
 	display:block;
 }
 .w3l_search{
@@ -132,7 +132,7 @@ input[type="submit"],#PPMiniCart .minicart-submit,.w3ls_vegetables ul li a,input
 	font-size: .74em;
     color: #fff;
     padding: .5em 1.5em;
-    background: #FA1818;
+    background: #285430;
     display: block;
 	text-decoration:none;
 }
@@ -579,7 +579,7 @@ ul.dropdown-menu.drp-mnu li a i {
     outline: none;
     text-transform: capitalize;
     padding: .5em 2.5em .5em 1em;
-    border: 1px solid #84c639;
+    border: 1px solid #285430;
     margin: .35em 0 0;
     background: url(../images/cart.png) no-repeat 116px 9px;
 }
