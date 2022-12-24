@@ -94,7 +94,7 @@ input[type="submit"],#PPMiniCart .minicart-submit,.w3ls_vegetables ul li a,input
 }
 .w3l_search{
 	float: left;
-    width: 27%;
+    width: 50%;
     margin:.1em 0 0em 10em;
 }
 .w3l_search input[type="text"]{
