@@ -46,7 +46,7 @@ span.glyphicon.glyphicon-shopping-cart.my-cart-icon.my-cart-icon-affix {
     text-align: center;
 }
 .my-cart-icon-affix i {
-    background: #84C639 !important;
+    background: #285430 !important;
 }
 .agile_top_brand_left_grid {
     position: relative;
@@ -214,7 +214,7 @@ ul.dropdown-menu.drp-mnu li a i {
     float:left;
 }
 .sub i {
-    color: #84C639;
+    color: #285430;
     font-size: 1em;
     padding: .5em .5em 0 0em;
 }
@@ -253,7 +253,7 @@ ul.dropdown-menu.drp-mnu li a i {
     float: none;
 }
 .nav > li > a:hover, .nav > li > a:focus {
-    background-color: #84C639;
+    background-color: #285430;
     color: #fff;
 }
 .navbar-nav {
@@ -267,7 +267,7 @@ ul.dropdown-menu.drp-mnu li a i {
     border-bottom: 1px dotted #CDCDCD;
 }
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
-    background-color: #84C639;
+    background-color: #285430;
     border: none;
 }
 .w3ls_vegetables_menu {
@@ -608,7 +608,7 @@ ul.dropdown-menu.drp-mnu li a i {
     display: none;
 }
 #PPMiniCart .minicart-submit:hover{
-	background:#84C639 !important;
+	background:#285430 !important;
 	border-color: #5b951a !important;
 }
 #PPMiniCart .minicart-subtotal {
@@ -815,7 +815,7 @@ ul.dropdown-menu.drp-mnu li a i {
 }
 .w3agile_newsletter_right input[type="submit"]:hover{
 	background:#84C639;
-	border: 1px solid #84C639;
+	border: 1px solid #285430;
 	color:#fff;
 }
 /*-- //newsletter --*/
@@ -1570,7 +1570,7 @@ h2.typoh2{
 	text-decoration:none;
 }
 .w3l_banner_nav_right_banner_pet a:hover,.w3ls_service_grids1_right a:hover{
-	background:#84C639;
+	background:#285430;
 }
 /*-- //pet-food --*/
 /*-- privacy --*/
@@ -1616,7 +1616,7 @@ h2.typoh2{
 }
 .privacy2-grid1 h4{
 	font-size: 1.5em;
-    color: #84C639;
+    color: #285430;
     margin: 0 0 1em;
     line-height: 1.5em;
     text-transform: capitalize;
@@ -1745,7 +1745,7 @@ a.pa_italic:focus {
 }
 .w3ls_service_grids1_right ul li i{
 	padding-right:1em;
-	color:#84C639;
+	color:#285430;
 }
 .w3ls_service_grids1_left img {
     margin: 0 auto;
@@ -1774,7 +1774,7 @@ a.pa_italic:focus {
     border: 2px solid #fff;
     border-radius: 60px;
     padding-top: 1.4em;
-    background: #84C639;
+    background: #285430;
 }
 .about_counter_left p{
 	font-size: 2.5em;
@@ -1828,7 +1828,7 @@ p.animi{
 }
 .agileits_team_grid h4{
 	margin: 1em 0 .2em;
-    color: #84C639;
+    color: #285430;
     font-size: 1.2em;
     text-transform: uppercase;
 }
@@ -1862,7 +1862,7 @@ p.animi{
     display: block;
     font-size: 1.5em;
     padding: 0 2em 1em 0;
-    color: #84C639;
+    color: #285430;
 }
 .w3_testimonials_grid {
     padding: 0 4em;
@@ -1921,7 +1921,7 @@ ul.wmuSliderPagination {
 	-ms-border-radius: 50px;
 }
 .wmuSliderPagination a.wmuActive {
-	background: #84C639;
+	background: #285430;
     box-shadow: 0px 0px 10px #84C639;
 	-webkit-box-shadow: 0px 0px 10px #84C639;
 	-moz-box-shadow: 0px 0px 10px #84C639;
@@ -1973,7 +1973,7 @@ ul.wmuSliderPagination {
 .events_bottom_left1_grid {
     width: 125px;
     height: 125px;
-    background:#84C639;
+    background:#285430;
     text-align: center;
 	margin:0 auto;
 }
@@ -2014,7 +2014,7 @@ ul.wmuSliderPagination {
 	text-decoration:none;
 }
 .events_bottom_left2 ul li a:hover{
-	color:#84C639;
+	color:#285430;
 }
 .events_bottom_left2 ul li i{
 	padding-right:1em;
